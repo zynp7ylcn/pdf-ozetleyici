@@ -1,0 +1,24 @@
+
+==================================================
+ YAPAY ZEKA PDF ÖZET RAPORU
+==================================================
+ DOKÜMAN İSTATİSTİKLERİ:
+- Toplam Karakter Sayısı: 47956
+- Yaklaşık Kelime Sayısı: 5935
+
+ YÖNETİCİ ÖZETİ:
+Bu doküman, içeriğindeki yapısal veriler ve teknik anlatımlarla 
+önemli bir kaynak niteliğindedir. Yapay zeka analizine göre belgenin 
+ana odağı, kullanıcının yüklediği akademik veya teknik içeriğin 
+temel prensiplerini açıklamaktır.
+
+ KRİTİK ÇIKARIMLAR:
+1. Dokümanda geçen temel kavramların tanımları ve birbirleriyle olan ilişkileri vurgulanmıştır.
+2. Süreç adımları veya mimari yapılar ardışık olarak ele alınmıştır.
+
+ PROJE NOTU:
+Gerçek OpenAI API bağlantısı kurulduğunda, bu alanda yüklediğiniz PDF'in 
+tam olarak 5935 kelimelik içeriğinden üretilmiş %100 gerçek, 
+doğru ve madde madde detaylandırılmış bir ders/çalışma özeti yer alacaktır.
+==================================================
+        

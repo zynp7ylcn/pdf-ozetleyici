@@ -78,7 +78,7 @@ doğru ve madde madde detaylandırılmış bir ders/çalışma özeti yer alacak
 
 if __name__ == "__main__":
     ozetleyici = PdfSummarizer()
-   
+    
     pdf_dosya_adi = "notlar.pdf" 
     
     print(f" '{pdf_dosya_adi}' dosyası işleniyor...")
@@ -88,3 +88,11 @@ if __name__ == "__main__":
     rapor = ozetleyici.metni_ozetle(ayiklanan_metin)
     
     print(rapor)
+    
+    if rapor and not rapor.startswith("Hata:"):
+        cikti_dosyasi = "ozet_raporu.txt"
+        
+        with open(cikti_dosyasi, "w", encoding="utf-8") as dosya:
+            dosya.write(rapor)
+            
+        print(f"\n Başarılı! Yapay zeka raporu '{cikti_dosyasi}' olarak otomatik kaydedildi.")
