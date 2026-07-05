@@ -1,0 +1,23 @@
+
+==================================================
+ YAPAY ZEKA PDF ÖZET RAPORU
+==================================================
+ İŞLENEN DOSYA: notlar.pdf
+ DOKÜMAN İSTATİSTİKLERİ:
+- Toplam Karakter Sayısı: 47956
+- Yaklaşık Kelime Sayısı: 5935
+
+ YÖNETİCİ ÖZETİ:
+Bu rapor, 'notlar.pdf' isimli kaynak dokümanın yapay zeka tarafından 
+analiz edilmesiyle oluşturulmuştur. Belge, içerdiği teknik terimler 
+ve yapısal anlatımlarla konu hakkında kritik bilgiler barındırmaktadır.
+
+ KRİTİK ÇIKARIMLAR:
+1. İlgili dokümandaki ana temalar ve işlem adımları başarıyla çözümlenmiştir.
+2. Kavramsal açıklamalar sınav ve çalışma odaklı olarak ayrıştırılmıştır.
+
+ PROJE NOTU:
+Gerçek OpenAI API entegrasyonunda, bu alanda 'notlar.pdf' dosyasının 
+tam olarak 5935 kelimelik orijinal metninden üretilmiş 
+özel ve nokta atışı bir özet yer alacaktır.
+==================================================
